@@ -15,9 +15,6 @@ export const videoPlayerInit = () => {
   const videoVolume = document.querySelector('.video-volume');
 
   const videoFullScreen = document.querySelector('.video-fullscreen');
-  const videoNavigation = document.querySelector('.video-navigation');
-  
-
  
 
   const toggleIcon = () => {
